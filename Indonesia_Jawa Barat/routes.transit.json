@@ -1,0 +1,228 @@
+{"id":9206,"network_id":9094,"color":"blue_dark","type":"bus","title":"Tanah Abang - Kebayoran Lama via Pos Pengumben"}
+{"id":9304,"network_id":9094,"color":"blue_dark","type":"bus","title":"Taman Waduk Papanggo - Kota Tua"}
+{"id":9205,"network_id":9094,"color":"blue_dark","type":"bus","title":"Tanjung Priok - Tanah Merdeka"}
+{"id":9293,"network_id":9094,"color":"blue_dark","type":"bus","title":"Term. Tj. Priok - Pegangsaan II IGI"}
+{"id":9280,"network_id":9094,"color":"blue_dark","type":"bus","title":"Rusun Sindang Koja - Kp. Sawah"}
+{"id":9204,"network_id":9094,"color":"blue_dark","type":"bus","title":"Terminal Tanah Merah - Pulo Gadung"}
+{"id":9303,"network_id":9094,"color":"blue_dark","type":"bus","title":"Rusun Marunda - Terminal Terpadu Pulo Gebang"}
+{"id":9203,"network_id":9094,"color":"blue_dark","type":"bus","title":"Tanah Abang - Kebayoran Lama"}
+{"id":9202,"network_id":9094,"color":"blue_dark","type":"bus","title":"Gondangdia - Cikini via Kramat Raya"}
+{"id":9201,"network_id":9094,"color":"blue_dark","type":"bus","title":"Gondangdia - Cikini via Salemba Raya"}
+{"id":9200,"network_id":9094,"color":"blue_dark","type":"bus","title":"Tanah Abang - Kota"}
+{"id":9198,"network_id":9094,"color":"blue_dark","type":"bus","title":"Roxy - Benhil"}
+{"id":9197,"network_id":9094,"color":"blue_dark","type":"bus","title":"Tanah Abang - Grogol via Tawakal"}
+{"id":9196,"network_id":9094,"color":"blue_dark","type":"bus","title":"Kampung Rambutan - Pondok Gede"}
+{"id":9195,"network_id":9094,"color":"blue_dark","type":"bus","title":"Semper - Rorotan"}
+{"id":9194,"network_id":9094,"color":"blue_dark","type":"bus","title":"Grogol - Tubagus Angke"}
+{"id":9193,"network_id":9094,"color":"blue_dark","type":"bus","title":"Lebak Bulus - Andara"}
+{"id":9192,"network_id":9094,"color":"blue_dark","type":"bus","title":"Kampung Melayu - Duren Sawit"}
+{"id":9191,"network_id":9094,"color":"blue_dark","type":"bus","title":"Tanjung Priok - Plumpang"}
+{"id":9292,"network_id":9094,"color":"red_light","type":"bus","title":"Cinere - Bundaran Senayan"}
+{"id":9190,"network_id":9094,"color":"red_light","type":"bus","title":"Cinere - Kuningan"}
+{"id":9189,"network_id":9094,"color":"lime_light","type":"bus","title":"Universitas Indonesia - Lebak Bulus"}
+{"id":9188,"network_id":9094,"color":"lime_light","type":"bus","title":"Depok - BKN"}
+{"id":9187,"network_id":9094,"color":"purple_light","type":"bus","title":"Pencakar Langit"}
+{"id":9186,"network_id":9094,"color":"purple_light","type":"bus","title":"Jakarta Modern"}
+{"id":9184,"network_id":9094,"color":"red_light","type":"bus","title":"Bekasi Barat - Kuningan"}
+{"id":9183,"network_id":9094,"color":"red_light","type":"bus","title":"Bekasi Barat - Blok M"}
+{"id":9272,"network_id":9094,"color":"lime_light","type":"bus","title":"Summarecon Bekasi - BNN"}
+{"id":9182,"network_id":9094,"color":"navy_light","type":"bus","title":"Blok M - Universitas Indonesia"}
+{"id":9310,"network_id":9094,"color":"gray","type":"bus","title":"Rusun Tambora - Pluit"}
+{"id":9181,"network_id":9094,"color":"navy_light","type":"bus","title":"Kebayoran Lama - Jelambar"}
+{"id":9180,"network_id":9094,"color":"navy_light","type":"bus","title":"Pasar Minggu - Tanah Abang"}
+{"id":9179,"network_id":9094,"color":"teal","type":"bus","title":"Pinang Ranti - Bundaran Senayan"}
+{"id":9178,"network_id":9094,"color":"teal","type":"bus","title":"PGC 2 - Grogol 2"}
+{"id":9103,"network_id":9094,"color":"teal","type":"bus","title":"Pinang Ranti - Pluit"}
+{"id":9306,"network_id":9094,"color":"pink_light","type":"bus","title":"S. Parman - Tanah Abang"}
+{"id":9177,"network_id":9094,"color":"pink_light","type":"bus","title":"Batusari - Grogol"}
+{"id":9176,"network_id":9094,"color":"pink_light","type":"bus","title":"Bintaro - Blok M"}
+{"id":9175,"network_id":9094,"color":"pink_light","type":"bus","title":"Joglo - Blok M"}
+{"id":9174,"network_id":9094,"color":"pink_light","type":"bus","title":"Kebayoran Lama - Tanah Abang"}
+{"id":9313,"network_id":9094,"color":"brown","type":"bus","title":"Kampung Melayu - Matraman 1"}
+{"id":9311,"network_id":9094,"color":"brown","type":"bus","title":"Blok M - PGC"}
+{"id":9173,"network_id":9094,"color":"brown","type":"bus","title":"Pondok Kelapa - BKN"}
+{"id":9171,"network_id":9094,"color":"brown","type":"bus","title":"Kampung Rambutan - Ragunan"}
+{"id":9169,"network_id":9094,"color":"brown","type":"bus","title":"Cibubur - BKN"}
+{"id":9168,"network_id":9094,"color":"brown","type":"bus","title":"Kampung Rambutan - Blok M"}
+{"id":9167,"network_id":9094,"color":"brown","type":"bus","title":"Kampung Rambutan - Lebak Bulus"}
+{"id":9101,"network_id":9094,"color":"brown","type":"bus","title":"Kampung Rambutan - Bidara Cina"}
+{"id":9305,"network_id":9094,"color":"lime","type":"bus","title":"Ragunan - Gelora Bung Karno"}
+{"id":9294,"network_id":9094,"color":"lime","type":"bus","title":"Blok M - Pasar Minggu"}
+{"id":9312,"network_id":9094,"color":"lime","type":"bus","title":"Pasar Minggu - Velbak"}
+{"id":9165,"network_id":9094,"color":"red_light","type":"bus","title":"Cibubur - Kuningan"}
+{"id":9164,"network_id":9094,"color":"lime","type":"bus","title":"Ragunan - Blok M via Kemang"}
+{"id":9163,"network_id":9094,"color":"lime","type":"bus","title":"Stasiun Manggarai - Blok M"}
+{"id":9162,"network_id":9094,"color":"lime","type":"bus","title":"Senen - Lebak Bulus"}
+{"id":9161,"network_id":9094,"color":"lime","type":"bus","title":"Stasiun Tebet - Karet via Underpass"}
+{"id":9160,"network_id":9094,"color":"lime","type":"bus","title":"Stasiun Tebet - Karet via Patra Kuningan"}
+{"id":9279,"network_id":9094,"color":"purple_dark","type":"bus","title":"St. Manggarai - Tosari"}
+{"id":9157,"network_id":9094,"color":"red_light","type":"bus","title":"Kampung Melayu - Ragunan"}
+{"id":9156,"network_id":9094,"color":"red_light","type":"bus","title":"Kampung Melayu - Tanah Abang via Cikini"}
+{"id":9155,"network_id":9094,"color":"red_light","type":"bus","title":"Kampung Melayu - Tanah Abang"}
+{"id":9154,"network_id":9094,"color":"orange","type":"bus","title":"PGC 1 - Ancol"}
+{"id":9108,"network_id":9094,"color":"orange_light","type":"bus","title":"Jakarta International Stadium - Senen"}
+{"id":9125,"network_id":9094,"color":"purple_dark","type":"bus","title":"Puri Beta - Ragunan"}
+{"id":9124,"network_id":9094,"color":"purple_dark","type":"bus","title":"Puri Beta - Dukuh Atas"}
+{"id":9270,"network_id":9094,"color":"purple_dark","type":"bus","title":"Puri Beta - Pancoran Barat"}
+{"id":9107,"network_id":9094,"color":"purple_dark","type":"bus","title":"Ciledug - Tendean"}
+{"id":9123,"network_id":9094,"color":"green_light","type":"bus","title":"St. LRT Pegangsaan Dua - JIS"}
+{"id":9269,"network_id":9094,"color":"gray","type":"bus","title":"Rusun Penjaringan - Penjaringan"}
+{"id":9122,"network_id":9094,"color":"gray","type":"bus","title":"Rusun Marunda - Rusun Waduk Pluit"}
+{"id":9296,"network_id":9094,"color":"gray","type":"bus","title":"Rusun Waduk Pluit - Penjaringan"}
+{"id":9121,"network_id":9094,"color":"green_light","type":"bus","title":"Pluit - Senen"}
+{"id":9120,"network_id":9094,"color":"green_light","type":"bus","title":"Pelabuhan Kaliadem - Kota"}
+{"id":9106,"network_id":9094,"color":"green_light","type":"bus","title":"Tanjung Priok - Pluit"}
+{"id":9119,"network_id":9094,"color":"navy","type":"bus","title":"Kampung Melayu - Pulo Gebang via BKT"}
+{"id":9112,"network_id":9094,"color":"red_dark","type":"bus","title":"Tanjung Priok - Blok M"}
+{"id":9111,"network_id":9094,"color":"red_dark","type":"bus","title":"Kampung Rambutan - Tanjung Priok"}
+{"id":9110,"network_id":9094,"color":"brown_light","type":"bus","title":"Rusun Cipinang Besar Selatan - Penas Kalimalang"}
+{"id":9109,"network_id":9094,"color":"brown_light","type":"bus","title":"Rusun Marunda - Tanjung Priok"}
+{"id":9104,"network_id":9094,"color":"red_dark","type":"bus","title":"Tanjung Priok - PGC 2"}
+{"id":9095,"network_id":9094,"color":"red","type":"bus","title":"Blok M - Kota"}
+{"id":9113,"network_id":9094,"color":"brown","type":"bus","title":"Tanjung Priok - Senen via Taman BMW"}
+{"id":9105,"network_id":9094,"color":"navy_dark","type":"bus","title":"Pulo Gebang - Matraman"}
+{"id":9114,"network_id":9094,"color":"navy_light","type":"bus","title":"Rusun Rawa Bebek - Penggilingan"}
+{"id":9115,"network_id":9094,"color":"navy_light","type":"bus","title":"Rusun Pinus Elok - Rusun Pulo Gebang"}
+{"id":9116,"network_id":9094,"color":"navy","type":"bus","title":"Pulo Gebang - Pulo Gadung 2 via PIK"}
+{"id":9117,"network_id":9094,"color":"navy_light","type":"bus","title":"Rusun Komarudin - Penggilingan"}
+{"id":9118,"network_id":9094,"color":"navy_light","type":"bus","title":"Rusun Rawa Bebek - Bukit Duri"}
+{"id":9297,"network_id":9094,"color":"navy_light","type":"bus","title":"Rusun Cipinang Muara - Jatinegara"}
+{"id":9299,"network_id":9094,"color":"navy_light","type":"bus","title":"Rusun Pondok Bambu - Walikota Jakarta Timur"}
+{"id":9127,"network_id":9094,"color":"red_light","type":"bus","title":"Stasiun Palmerah - Tosari"}
+{"id":9128,"network_id":9094,"color":"red_light","type":"bus","title":"Pesanggrahan - Blok M"}
+{"id":9129,"network_id":9094,"color":"red_light","type":"bus","title":"Pondok Labu - Blok M"}
+{"id":9130,"network_id":9094,"color":"red_light","type":"bus","title":"Stasiun Palmerah - Bundaran Senayan"}
+{"id":9131,"network_id":9094,"color":"red_light","type":"bus","title":"Tanah Abang - Stasiun Gondangdia"}
+{"id":9132,"network_id":9094,"color":"red_light","type":"bus","title":"Cibubur Junction - Blok M"}
+{"id":9133,"network_id":9094,"color":"red_light","type":"bus","title":"Meruya - Blok M"}
+{"id":9134,"network_id":9094,"color":"red_light","type":"bus","title":"Tanah Abang - Blok M"}
+{"id":9135,"network_id":9094,"color":"red_light","type":"bus","title":"Senen - Blok M"}
+{"id":9136,"network_id":9094,"color":"red_light","type":"bus","title":"Rempoa - Blok M"}
+{"id":9137,"network_id":9094,"color":"red_light","type":"bus","title":"Senen - Tanah Abang"}
+{"id":9253,"network_id":9094,"color":"blue_dark","type":"bus","title":"Kampung Rambutan - Pasar Rebo via Poncol"}
+{"id":9126,"network_id":9094,"color":"red_light","type":"bus","title":"Pantai Maju - Balai Kota"}
+{"id":9254,"network_id":9094,"color":"blue_dark","type":"bus","title":"Jambore Cibubur - Pasar Rebo"}
+{"id":9295,"network_id":9094,"color":"blue_dark","type":"bus","title":"Term. Rawamangun - Term. Manggarai"}
+{"id":9271,"network_id":9094,"color":"purple_dark","type":"bus","title":"Puri Beta - Kuningan (Express)"}
+{"id":9144,"network_id":9094,"color":"blue_light","type":"bus","title":"Rusun Flamboyan - Cengkareng"}
+{"id":9281,"network_id":9094,"color":"lime","type":"bus","title":"PGC 2 - Tanjung Priok"}
+{"id":9282,"network_id":9094,"color":"lime","type":"bus","title":"Sunter Boulevard Barat - Penjaringan"}
+{"id":9283,"network_id":9094,"color":"lime","type":"bus","title":"Puri Beta 2 - Tendean"}
+{"id":9287,"network_id":9094,"color":"lime","type":"bus","title":"Matraman Baru - Ancol"}
+{"id":9291,"network_id":9094,"color":"lime","type":"bus","title":"Pinang Ranti - Pluit"}
+{"id":9268,"network_id":9094,"color":"lime_light","type":"bus","title":"Poris Plawad - Bundaran Senayan"}
+{"id":9141,"network_id":9094,"color":"navy","type":"bus","title":"Gondangdia - Senen"}
+{"id":9255,"network_id":9094,"color":"blue_dark","type":"bus","title":"Terminal Rawamangun - Cipinang Muara"}
+{"id":9314,"network_id":9094,"color":"blue_dark","type":"bus","title":"Terminal Kampung Melayu - Terminal Klender"}
+{"id":9257,"network_id":9094,"color":"blue_dark","type":"bus","title":"Tanjung Priok - Jembatan Item"}
+{"id":9316,"network_id":9094,"color":"red_light","type":"bus","title":"Pantai Maju - Kota"}
+{"id":9258,"network_id":9094,"color":"blue_dark","type":"bus","title":"Rawa Buaya - Rawa Kompeni"}
+{"id":9317,"network_id":9094,"color":"blue_dark","type":"bus","title":"Stasiun Tebet - Rusun Karet Tengsin"}
+{"id":9259,"network_id":9094,"color":"blue_dark","type":"bus","title":"Terminal Kampung Melayu - Kapin Raya"}
+{"id":9318,"network_id":9094,"color":"blue_dark","type":"bus","title":"Stasiun Tebet - Kampung Melayu"}
+{"id":9261,"network_id":9094,"color":"blue_dark","type":"bus","title":"Terminal Tanjung Priok - Ancol Barat"}
+{"id":9320,"network_id":9094,"color":"lime","type":"bus","title":"BKN - Blok M"}
+{"id":9263,"network_id":9094,"color":"lime_light","type":"bus","title":"BSD - Jelambar"}
+{"id":9322,"network_id":9094,"color":"purple_light","type":"bus","title":"Monas - Pantai Indah Kapuk"}
+{"id":9276,"network_id":9094,"color":"lime","type":"bus","title":"Blok M - Kota"}
+{"id":9149,"network_id":9094,"color":"brown_dark","type":"bus","title":"TU Gas - Bundaran Senayan"}
+{"id":9158,"network_id":9094,"color":"lime","type":"bus","title":"Ragunan - MH Thamrin via Kuningan"}
+{"id":9285,"network_id":9094,"color":"lime","type":"bus","title":"Kalideres - Bundaran HI via Veteran"}
+{"id":9262,"network_id":9094,"color":"orange_light","type":"bus","title":"Harmoni - Jakarta International Stadium"}
+{"id":9321,"network_id":9094,"color":"lime","type":"bus","title":"Tanah Abang - St. Gondangdia"}
+{"id":9097,"network_id":9094,"color":"yellow","type":"bus","title":"Kalideres - Bundaran HI via Veteran"}
+{"id":9224,"network_id":9094,"color":"blue_dark","type":"bus","title":"Blok M - Andara"}
+{"id":9265,"network_id":9094,"color":"lime_light","type":"bus","title":"Ciputat - CSW"}
+{"id":9138,"network_id":9094,"color":"navy","type":"bus","title":"Pulo Gadung - Rawa Buaya via Balai Kota"}
+{"id":9324,"network_id":9094,"color":"red_light","type":"bus","title":"Cibubur - Balai Kota"}
+{"id":9185,"network_id":9094,"color":"lime_light","type":"bus","title":"Bekasi Timur - Cawang"}
+{"id":9275,"network_id":9094,"color":"lime_light","type":"bus","title":"Ciputat - Kampung Rambutan"}
+{"id":9148,"network_id":9094,"color":"brown_dark","type":"bus","title":"Stasiun Manggarai - UI"}
+{"id":9098,"network_id":9094,"color":"purple_dark","type":"bus","title":"Pulo Gadung 2 - Tosari"}
+{"id":9225,"network_id":9094,"color":"blue_dark","type":"bus","title":"Lebak Bulus - Petukangan"}
+{"id":9264,"network_id":9094,"color":"red_light","type":"bus","title":"BSD Serpong - Fatmawati"}
+{"id":9323,"network_id":9094,"color":"red_light","type":"bus","title":"Palem Semi - Bundaran Senayan"}
+{"id":9266,"network_id":9094,"color":"red_light","type":"bus","title":"Bintaro - Fatmawati"}
+{"id":9139,"network_id":9094,"color":"navy","type":"bus","title":"Harapan Indah - ASMI"}
+{"id":9325,"network_id":9094,"color":"teal","type":"bus","title":"Pinang Ranti - Pramuka"}
+{"id":9307,"network_id":9094,"color":"blue_dark","type":"bus","title":"Term. Pulo Gadung - Lampiri"}
+{"id":9248,"network_id":9094,"color":"blue_dark","type":"bus","title":"Rawamangun - Tanah Merah"}
+{"id":9286,"network_id":9094,"color":"lime","type":"bus","title":"Pulo Gadung 2 - Dukuh Atas 2"}
+{"id":9159,"network_id":9094,"color":"lime","type":"bus","title":"Ragunan - MH Thamrin via Semanggi"}
+{"id":9326,"network_id":9094,"color":"purple","type":"bus","title":"Jelambar - Juanda"}
+{"id":9260,"network_id":9094,"color":"blue_dark","type":"bus","title":"Bintara - Cipinang Indah"}
+{"id":9319,"network_id":9094,"color":"yellow","type":"bus","title":"Jelambar - Kota"}
+{"id":9289,"network_id":9094,"color":"lime","type":"bus","title":"Kampung Rambutan - Monas"}
+{"id":9170,"network_id":9094,"color":"brown","type":"bus","title":"Pancoran - Kampung Rambutan"}
+{"id":9288,"network_id":9094,"color":"lime","type":"bus","title":"Ragunan - MH Thamrin"}
+{"id":9290,"network_id":9094,"color":"lime","type":"bus","title":"Lebak Bulus - Pasar Baru"}
+{"id":9172,"network_id":9094,"color":"brown","type":"bus","title":"Kampung Rambutan - Juanda via Pasar Baru"}
+{"id":9166,"network_id":9094,"color":"lime","type":"bus","title":"Dukuh Atas - Casablanca via Epicentrum Raya"}
+{"id":9284,"network_id":9094,"color":"lime","type":"bus","title":"Pulo Gadung - Monas"}
+{"id":9096,"network_id":9094,"color":"navy","type":"bus","title":"Pulo Gadung - Monas"}
+{"id":9223,"network_id":9094,"color":"blue_dark","type":"bus","title":"Grogol - Meruya via Roxy"}
+{"id":9102,"network_id":9094,"color":"purple","type":"bus","title":"Lebak Bulus - Pasar Baru via Tomang"}
+{"id":9229,"network_id":9094,"color":"blue_dark","type":"bus","title":"Cilangkap - Cililitan"}
+{"id":9277,"network_id":9094,"color":"lime","type":"bus","title":"Pulo Gebang - Pulo Gadung 2"}
+{"id":9150,"network_id":9094,"color":"purple_dark","type":"bus","title":"Pulo Gadung 2 - Kuningan"}
+{"id":9100,"network_id":9094,"color":"lime","type":"bus","title":"Ragunan - Dukuh Atas 2"}
+{"id":9227,"network_id":9094,"color":"blue_dark","type":"bus","title":"Rawamangun - Klender"}
+{"id":9256,"network_id":9094,"color":"blue_dark","type":"bus","title":"Cililitan - Kp. Pulo"}
+{"id":9315,"network_id":9094,"color":"blue_dark","type":"bus","title":"Senen - Pisangan Baru"}
+{"id":9252,"network_id":9094,"color":"blue_dark","type":"bus","title":"Kampung Rambutan - Pinang Ranti"}
+{"id":9251,"network_id":9094,"color":"blue_dark","type":"bus","title":"Lenteng Agung - Aseli"}
+{"id":9250,"network_id":9094,"color":"blue_dark","type":"bus","title":"Cempaka Putih - Pulo Gadung via Kelapa Gading"}
+{"id":9249,"network_id":9094,"color":"blue_dark","type":"bus","title":"Kelapa Gading - Rusun Kemayoran"}
+{"id":9247,"network_id":9094,"color":"blue_dark","type":"bus","title":"Cilincing - Rorotan"}
+{"id":9246,"network_id":9094,"color":"blue_dark","type":"bus","title":"Grogol - Srengseng"}
+{"id":9245,"network_id":9094,"color":"blue_dark","type":"bus","title":"Grogol - Benhil"}
+{"id":9244,"network_id":9094,"color":"blue_dark","type":"bus","title":"Grogol - Pos Pengumben via Slipi"}
+{"id":9243,"network_id":9094,"color":"blue_dark","type":"bus","title":"Terminal Kalideres - Terminal Muara Angke"}
+{"id":9242,"network_id":9094,"color":"blue_dark","type":"bus","title":"Taman Kota - Budi Luhur"}
+{"id":9241,"network_id":9094,"color":"blue_dark","type":"bus","title":"Kalideres - Puri Kembangan"}
+{"id":9240,"network_id":9094,"color":"blue_dark","type":"bus","title":"Lebak Bulus - Cipulir"}
+{"id":9239,"network_id":9094,"color":"blue_dark","type":"bus","title":"Pasar Minggu - Ciganjur via KB Ragunan"}
+{"id":9238,"network_id":9094,"color":"blue_dark","type":"bus","title":"Pasar Minggu - Jagakarsa"}
+{"id":9237,"network_id":9094,"color":"blue_dark","type":"bus","title":"Lebak Bulus - Ragunan"}
+{"id":9236,"network_id":9094,"color":"blue_dark","type":"bus","title":"Andara - Stasiun Universitas Pancasila"}
+{"id":9302,"network_id":9094,"color":"blue_dark","type":"bus","title":"Sarana Jaya - Tebet Eco Park (TEP) - Stasiun Cawang"}
+{"id":9301,"network_id":9094,"color":"blue_dark","type":"bus","title":"Tongtek - Tebet Eco Park (TEP) - Cililitan"}
+{"id":9235,"network_id":9094,"color":"blue_dark","type":"bus","title":"Kampung Melayu - Pondok Kelapa"}
+{"id":9234,"network_id":9094,"color":"blue_dark","type":"bus","title":"Kampung Melayu - Pulo Gadung"}
+{"id":9233,"network_id":9094,"color":"blue_dark","type":"bus","title":"Harapan Baru - Pulo Gebang via Rawa Kuning"}
+{"id":9232,"network_id":9094,"color":"blue_dark","type":"bus","title":"Kalimalang - Duren Sawit"}
+{"id":9231,"network_id":9094,"color":"blue_dark","type":"bus","title":"Bulak Ringin - Kampung Rambutan"}
+{"id":9230,"network_id":9094,"color":"blue_dark","type":"bus","title":"Cililitan - Condet via Kayu Manis"}
+{"id":9228,"network_id":9094,"color":"blue_dark","type":"bus","title":"Pangkalan Jati - Rawamangun"}
+{"id":9226,"network_id":9094,"color":"blue_dark","type":"bus","title":"Pulo Gadung - Kota"}
+{"id":9099,"network_id":9094,"color":"orange","type":"bus","title":"Matraman Baru - Ancol"}
+{"id":9222,"network_id":9094,"color":"blue_dark","type":"bus","title":"Tanjung Priok - Sukapura"}
+{"id":9221,"network_id":9094,"color":"blue_dark","type":"bus","title":"Kp. Rambutan - Taman Wiladatika"}
+{"id":9220,"network_id":9094,"color":"blue_dark","type":"bus","title":"Pulo Gebang - Rorotan"}
+{"id":9219,"network_id":9094,"color":"blue_dark","type":"bus","title":"Rawamangun - Duren Sawit"}
+{"id":9218,"network_id":9094,"color":"blue_dark","type":"bus","title":"Kp. Rambutan - Kalisari"}
+{"id":9217,"network_id":9094,"color":"blue_dark","type":"bus","title":"Senen - Pulo Gadung via Kelapa Gading"}
+{"id":9216,"network_id":9094,"color":"blue_dark","type":"bus","title":"Dwikora - Penas Kalimalang"}
+{"id":9215,"network_id":9094,"color":"blue_dark","type":"bus","title":"Cililitan - Dwikora"}
+{"id":9214,"network_id":9094,"color":"blue_dark","type":"bus","title":"Cawang UKI - Lubang Buaya"}
+{"id":9213,"network_id":9094,"color":"blue_dark","type":"bus","title":"Pinang Ranti - Kampung Rambutan"}
+{"id":9212,"network_id":9094,"color":"blue_dark","type":"bus","title":"Kalibata - Kuningan"}
+{"id":9211,"network_id":9094,"color":"blue_dark","type":"bus","title":"Senen - Pulo Gadung"}
+{"id":9210,"network_id":9094,"color":"blue_dark","type":"bus","title":"Cililitan - Condet"}
+{"id":9209,"network_id":9094,"color":"blue_dark","type":"bus","title":"Bulak Turi - Tanjung Priok"}
+{"id":9208,"network_id":9094,"color":"blue_dark","type":"bus","title":"Tanah Abang - Meruya"}
+{"id":9207,"network_id":9094,"color":"blue_dark","type":"bus","title":"Tanah Abang - Jembatan Lima"}
+{"id":9300,"network_id":9094,"color":"blue_dark","type":"bus","title":"JIS - Terminal Muara Angke"}
+{"id":9153,"network_id":9094,"color":"orange","type":"bus","title":"PGC - Juanda"}
+{"id":9152,"network_id":9094,"color":"red_light","type":"bus","title":"Stasiun Tebet - BNN"}
+{"id":9151,"network_id":9094,"color":"brown_dark","type":"bus","title":"Pinang Ranti - Pulo Gadung"}
+{"id":9309,"network_id":9094,"color":"brown_dark","type":"bus","title":"Rusun Jatinegara Kaum - Pulo Gadung"}
+{"id":9147,"network_id":9094,"color":"yellow","type":"bus","title":"Kalideres - Gelora Bung Karno"}
+{"id":9146,"network_id":9094,"color":"lime_light","type":"bus","title":"Puri Kembangan - Sentraland Cengkareng"}
+{"id":9145,"network_id":9094,"color":"blue_light","type":"bus","title":"Rusun Kapuk Muara - Penjaringan"}
+{"id":9143,"network_id":9094,"color":"blue_light","type":"bus","title":"Rusun Pesakih - Kalideres"}
+{"id":9142,"network_id":9094,"color":"navy","type":"bus","title":"Gondangdia - Balai Kota"}
+{"id":9298,"network_id":9094,"color":"navy_light","type":"bus","title":"Rusun Jati Rawasari - Senen"}
+{"id":9140,"network_id":9094,"color":"navy_light","type":"bus","title":"Rusun Cakung Barat - Pulo Gadung"}
+{"id":9267,"network_id":9094,"color":"navy","type":"bus","title":"Juanda - Bundaran HI"}
+{"id":9308,"network_id":9094,"color":"navy_light","type":"bus","title":"Rusun Rawa Bebek - Kodamar"}
